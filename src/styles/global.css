@@ -11,6 +11,11 @@
 h1,
 h2 {
   margin-top: 40px;
+  color: orange;
+}
+
+h3 {
+  color: green;
 }
 
 * {
